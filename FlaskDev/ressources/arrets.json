@@ -1,0 +1,64 @@
+{
+  "arrets":[
+    {
+      "id_ligne" : 0,
+      "arrets_ligne":[
+        {
+          "id" : 0,
+          "nom" : "Anatole France",
+          "lieu" : "Bibliothèque Centrale"
+        },
+        {
+          "id" : 1,
+          "nom" : "L'Heure Tranquille",
+          "lieu" : "Cinéma Méga-CGR 2 Lions"
+        },
+        {
+          "id" : 2,
+          "nom" : "Gare de Tours",
+          "lieu" : "Cinéma Méga-CGR Centre"
+        }
+      ]
+    },
+    {
+      "id_ligne" : 1,
+      "arrets_ligne":[
+        {
+          "id" : 0,
+          "nom" : "Lac",
+          "lieu" : "Centre Aquatique du Lac"
+        },
+        {
+          "id" : 1,
+          "nom" : "CHU Trousseau",
+          "lieu" : "CHU Trousseau"
+        },
+        {
+          "id" : 2,
+          "nom" : "Ursulines",
+          "lieu" : "Cinéma Les Studio"
+        }
+      ]
+    },
+    {
+      "id_ligne" : 2,
+      "arrets_ligne":[
+        {
+          "id" : 0,
+          "nom" : "Champ Girault",
+          "lieu" : "CAF / CPAM"
+        },
+        {
+          "id" : 1,
+          "nom" : "CHU Trousseau",
+          "lieu" : "CHU Trousseau"
+        },
+        {
+          "id" : 2,
+          "nom" : "Sante Vinci",
+          "lieu" : "Clinique Léonard de Vinci"
+        }
+      ]
+    }
+  ]
+}

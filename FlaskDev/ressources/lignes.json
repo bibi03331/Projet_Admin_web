@@ -1,0 +1,16 @@
+{
+  "lignes":[
+    {
+      "id" : 0,
+      "nom" :"Ligne A"
+    },
+    {
+      "id" : 1,
+      "nom" :"Ligne 2"
+    },
+    {
+      "id" : 2,
+      "nom" :"Ligne 3"
+    }
+  ]
+}

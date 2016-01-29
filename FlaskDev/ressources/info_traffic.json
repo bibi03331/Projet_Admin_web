@@ -1,0 +1,29 @@
+{
+  "perturbations":[
+    {
+      "intitule" : "Course a pied Bol d'Air",
+      "lignes_concernees" : [
+        {
+          "nom_ligne" : "Ligne A"
+        },
+        {
+          "nom_ligne" : "Ligne 2"
+        }
+      ],
+      "detail" : "En raison de la course a pied Bol d’Air, les lignes A et 2 sont deviees dans les 2 sens.",
+      "date_debut" : "2016-01-08.08:00",
+      "date_fin" : "2016-01-30.18:00"
+    },
+    {
+      "intitule" : "Travaux rue CAULAINCOURT",
+      "lignes_concernees" : [
+        {
+          "nom_ligne" : "Ligne 3"
+        }
+      ],
+      "detail" : "En raison de travaux rue de Caulaincourt, la ligne 3 est deviee dans les 2 sens.",
+      "date_debut" : "2016-02-01.08:00",
+      "date_fin" : "2016-02-15.08:00"
+    }
+  ]
+}

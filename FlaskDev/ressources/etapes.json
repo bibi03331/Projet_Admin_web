@@ -1,0 +1,22 @@
+{
+  "etapes":[
+    {
+      "mode" : "Tram",
+      "ligne" : "Ligne A",
+      "direction" : "Lycee Jean-Monet",
+      "arret" : "Anatole France",
+      "heure" : "14:55"
+    },
+    {
+      "mode" : "Pieds",
+      "duree" : 10
+    },
+    {
+      "mode" : "Bus",
+      "ligne" : "Ligne 2",
+      "direction" : "Vaucanson",
+      "arret" : "Ursulines",
+      "heure" : "15:35"
+    }
+  ]
+}

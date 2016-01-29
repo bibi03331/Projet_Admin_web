@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, minimal-ui">
+
+    <title>FilBleu</title>
+
+    <link href="css/developer-style.css" rel="stylesheet" media="screen" type="text/css" />
+    <script src="javascript/functions.js" type="text/javascript"></script>
+    <script src="javascript/FilBleu_index.js" type="text/javascript"></script>
+  </head>
+
+  <body>
+    <div id="topbar">
+        <div id="title">
+		Fil Bleu</div>
+    </div>
+
+    <div id="tributton">
+        <div class="links">
+            <a id="pressed" href="#">Consulter les arrêts</a><a href="itineraire.html">Itinéraire</a><a href="perturbations.html">Perturbations</a></div>
+    </div>
+
+    <div id="content">
+        <fieldset>
+            <span class="graytitle">Liste des lignes</span>
+            <ul class="pageitem">
+                <li class="select">
+                    <select id="select_ligne">
+                    </select>
+                    <span class="arrow"></span>
+                </li>
+            </ul><br>
+            <span class="graytitle">Arrêt de la ligne</span>
+            <div id="info_ligne">
+            </div>
+        </fieldset>
+    </div>
+  </body>
+</html>
